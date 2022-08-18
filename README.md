@@ -1,4 +1,4 @@
-# Codes-in-Matlab
+# Codes in Matlab
 ---
 In this repository you will find four codes in Matlab.
 --
