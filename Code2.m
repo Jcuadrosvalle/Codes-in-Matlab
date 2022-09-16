@@ -1,8 +1,8 @@
-v1=input('Ingrese primer valor: ');
-v2=input('Ingrese segundo valor: ');
-v3=input('Ingrese tercer valor: ');
-v4=input('Ingrese cuarto valor: ');
-v5=input('Ingrese quinto valor: ');
+v1=input('Type the first weight: ');
+v2=input('Type the second weight: ');
+v3=input('Type the third weight: ');
+v4=input('Type the fourth weight: ');
+v5=input('Type the fifth weight: ');
 v=[v1 v2 v3 v4 v5];
 d=v1+v2+v3+v4+v5-1;
 x=perms(v);
