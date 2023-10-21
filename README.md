@@ -1,9 +1,11 @@
 # Codes in Matlab
 ---
 In this repository you will find 6 codes in Matlab: 
+--
 I) the first four were written for the paper Sasaki-Einstein 7-manifolds and Orlik's conjecture.
-
+--
 II) the last two codes where written for the paper Berglund-Hübsch transpose and Einstein metrics on rational homology 7-spheres.
+--
 --
 Code1: Determines if the weights determine a singularity of type BP, Chain or Cycle.
 --
