@@ -18,5 +18,5 @@ Code4: Computes the degree, Milnor number and third homology group of the link o
 --
 The code Code4alt computes the degree, Milnor number and third homology group of the link of a hypersurface singularity of index greater or equal than 1.
 --
-The code degree computes de weights and degree of the polynomial gven the entries of the matrix of exponents.
+The code Degree computes de weights and degree of the polynomial gven the entries of the matrix of exponents.
 --
